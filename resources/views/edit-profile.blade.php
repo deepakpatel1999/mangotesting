@@ -39,7 +39,7 @@
            </div>
            	</div>
 	  </li>
-              <li><a href="#"> <i class="fa fa-heart" aria-hidden="true"></i> Favourite</a></li>
+              <li><a href="#"> <i class="fa fa-heart" aria-hidden="true"></i> Favourite </a></li>
               <li>
               	<div class="dropdown">
               	<a href="#" class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
