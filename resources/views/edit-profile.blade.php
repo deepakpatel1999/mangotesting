@@ -24,7 +24,7 @@
               <a href="#">
                   <img src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="">
               </a>
-              <h1>Preet Kumar</h1>
+              <h1>Preett Kumar</h1>
               <p>Fun Explorer!</p>
               <button class="btn edit_profile_btn btn_custom"><i class="fa fa-pencil-square" aria-hidden="true"></i> Edit Profile</button>
           </div>
@@ -35,7 +35,7 @@
               	<a href="#" class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
           aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> Information</a>
           	<div class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <a class="dropdown-item" href="#!">- Edit Profile</a>
+			    <a class="dropdown-item" href="#!">-Edit Profile</a>
            </div>
            	</div>
 	  </li>
